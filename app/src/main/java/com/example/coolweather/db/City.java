@@ -20,7 +20,7 @@ public class City extends LitePalSupport {
         return cityName;
     }
 
-    public void setCityNamee(String cityName) {
+    public void setCityName(String cityName) {
         this.cityName = cityName;
     }
 
